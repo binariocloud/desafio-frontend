@@ -1,6 +1,6 @@
 
 # O desafio BCMovies
-## Crie uma Single Page Application com Angular para avaliar filmes que estão no cinema mundial(now_playing).
+## Crie uma listagem de filmes que estão no cinema mundial(now_playing).
 
 API: [https://www.themoviedb.org/documentation/api)
 
